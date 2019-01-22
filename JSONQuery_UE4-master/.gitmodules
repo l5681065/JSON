@@ -1,0 +1,3 @@
+[submodule "Plugins/JSONQuery"]
+	path = Plugins/JSONQuery
+	url = https://github.com/n1ckfg/JSONQuery
